@@ -37,3 +37,9 @@ A full-stack chatbot powered by Google’s Gemini 2.5 Flash API, built using Rea
 - Built with love using React + Flask ❤️
 
 ---
+
+## 🧠 Developed By
+
+[Vedant Pardeshi] – connect with me on [LinkedIn](https://www.linkedin.com/in/vedant-pardeshi-642937321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or check out my other projects on [GitHub](https://github.com/Vedant-Git-dev)
+
+---
